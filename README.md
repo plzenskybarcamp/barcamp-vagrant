@@ -1,5 +1,8 @@
 # Vagrant for testing [plzenskybarcamp-web](https://github.com/plzenskybarcamp/plzenskybarcamp-web) project
 
+## Deprecated
+This repo is deprecated, inactual and no more is compatible
+
 ## Pre-requirements
 Download and install:
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
